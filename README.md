@@ -49,12 +49,6 @@ During Malay weddings, elder relatives will carry out a custom to bless the brid
 
 ## Non-Native Origin, Deeply Rooted Roles
 Despite its beginnings as a non-native species, there is no doubt that the pandan has become an important plant of cultural significance and ecological importance in Singapore. It is a significant habitat for the ant mosquito, *Malaya genurostris*, and its presence may be ecologically important in maintaining intricate relationship between *Crematogaster* ants and the non-blood feeding mosquito. The dependence of cultural practices and food recipes on pandan is a testament to how widely available the plant has become since its introduction into its non-native range. The use of pandan locally can be seen as an interesting parallel to Singapore’s multi-cultural origins, where the settlers from diverse backgrounds were once non-natives but have since developed their own identities, giving rise to new traditions and cuisines.
-
-<param ve-image 
-       label="Symptoms of dengue fever" 
-       license="CC BY-NC-ND 2.0" 
-       url="https://live.staticflickr.com/8331/8076919949_20ef6b9e4b_c.jpg"
-       fit="contain">
        
 ## References
 [^1]: Ralph E. Harbach, “Mosquito Taxonomic Inventory,” Mosquito Taxonomic Inventory, 2022, https://mosquito-taxonomic-inventory.myspecies.info/.
