@@ -21,6 +21,13 @@ Not all mosquitoes are disease vectors. Of the ~3,600 described species,[^1] onl
        title="Toxorhynchites mosquito larvae predating on dengue vector Aedes mosquito larvae">
 
 Mosquitoes belonging to the genus *Malaya*, commonly known as ant mosquitoes, have a unique diet of ingesting regurgitated honeydew from *Crematogaster* ants.[^4] They obtain this through a series of specialised behaviours:
+<param ve-image 
+       manifest="https://iiif.archivelab.org/iiif/dli.csl.8119/manifest.json"
+       label="Sketch of a Malaya ant mosquito (old genus name Harpagomyia) feeding from a Crematogaster ant." 
+       license="Public domain"
+       seq="72"
+       fit="contain">
+       
 > “The *Harpagomyia* [old genus name of *Malaya*] places itself directly in front of an advancing ant, sometimes even nipping the ant between its front legs, and not releasing it until it stops and opens its jaws, when the mosquito thrusts the swollen tip of its proboscis into the ant’s mouth and rapidly absorbs the food offered. While the interchange is taking place the ant strokes the tip of the mosquito’s proboscis with its palpi. When not in use, the proboscis of the mosquito is folded backwards under the body - a most unusual position in this family. Whilst feeding, the wings are vibrated and the hind legs held high so that the tarsi curve forwards over the head, as in *Wyeomyia* and related genera”.[^5]
 
 12 species are described in this genus, and one such species, *Malaya genurostris* is found in Singapore. At present, there are 23 species of *Crematogaster* ants recorded in Singapore,[^6] but it is uncertain if *Malaya genurostris* is associated with one or multiple species of *Crematogaster* ants.
@@ -32,23 +39,74 @@ Mosquitoes belonging to the genus *Malaya*, commonly known as ant mosquitoes, ha
 Pandan is considered a cultigen, a plant species known only in cultivation with no known wild ancestor.[^7] The origin of its domestication process, thought to have started since ancient times, is a mystery. The plant reproduces vegetatively, as it does not produce female flower clusters (inflorescences). Male inflorescences are rare and have only been observed once in the Moluccas.[^8] It is the only fragrant species of screwpines, and the widespread extent of its spread in modern Singapore can be attributed to its aromatic properties and propensity to survive in a wide variety of environments. First recorded in Singapore in 1918, the route of its introduction is unclear but is likely a result of cultivating the plant to be used as a cooking ingredient. Despite its domesticated and non-native status, the pandan plays an important role in the local ecosystem. A well-loved plant of cultural significance, pandan is widely planted in various parks and nature spots in Singapore, placing it in close proximity to local fauna.
 
 The larvae of Malaya genurostris have been frequently observed in the leaf axils of the pandan. The tight interwoven leaves of this plant shield the larvae from potential predators and provide an ideal habitat to collect rainwater essential for the continued development of the larvae to adulthood (which usually takes a few weeks).
+<param ve-image 
+       label="Larva of ant mosquito (Malaya genurostris)"
+       attribution="Yeo Huiqing"
+       url="https://raw.githubusercontent.com/huiqingyeooo/pandan_antMosquito/main/media/Ml_genurostris_larva.jpg"
+       fit="contain">
+<param ve-image 
+       label="Pupa of ant mosquito (Malaya genurostris) - side view"
+       attribution="Yeo Huiqing"
+       url="https://raw.githubusercontent.com/huiqingyeooo/pandan_antMosquito/main/media/Ml_genurostris_pupa.jpg"
+       fit="contain">
+<param ve-image 
+       label="Pupa of ant mosquito (Malaya genurostris) - top view"
+       attribution="Yeo Huiqing"
+       url="https://raw.githubusercontent.com/huiqingyeooo/pandan_antMosquito/main/media/Ml_genurostris_pupa2.jpg"
+       fit="contain">
+<param ve-image 
+       label="Adult of ant mosquito (Malaya genurostris)"
+       attribution="Yeo Huiqing"
+       url="https://raw.githubusercontent.com/huiqingyeooo/pandan_antMosquito/main/media/Ml_genurostris_adult.jpg"
+       fit="contain">
 
 ## Pandan – A Taste of Home
-“Sometimes called the ‘Vanilla of the East’, the wonderful aroma of pandan reminds us of home cooking in Southeast Asia” – so goes the tagline for Singapore-based Sunshine Bakeries’ Homestyle Pandan Bread.[^9] Indeed the smell and sight of pandan evokes strong feelings of familiarity and nostalgia, as many locals grow up eating a wide variety of dishes flavoured with pandan. A highly versatile ingredient in local cuisines, pandan can be incorporated into savoury dishes and sweet treats. *Kaya*, a popular breakfast spread often eaten with butter on toast, is made by cooking pandan extracts and coconut into a jam.[^10] The leaves of the pandan plant are bundled and cooked with rice and other flavourings to produce a variety of dishes such as *nasi lemak* and *nasi biryani*.[^11] Pandan is also used to impart green food colouring and aromatic properties to traditional cakes like *kuehs* (e.g., *seri muka* and *kueh talam pandan*)[^12] and modern renditions of desserts such as pandan cake and pandan waffles.[^13] The leaves can also be used as a wrap such as in the savoury dish Thai pandan leaf chicken (*gai hor bai toey*) or the *kueh tepung pelita*.[^14]
+“Sometimes called the ‘Vanilla of the East’, the wonderful aroma of pandan reminds us of home cooking in Southeast Asia” – so goes the tagline for Singapore-based Sunshine Bakeries’ Homestyle Pandan Bread.[^9] Indeed the smell and sight of pandan evokes strong feelings of familiarity and nostalgia, as many locals grow up eating a wide variety of dishes flavoured with pandan. A highly versatile ingredient in local cuisines, pandan can be incorporated into savoury dishes and sweet treats. *Kaya*, a popular breakfast spread often eaten with butter on toast, is made by cooking pandan extracts and coconut into a jam.[^10] The leaves of the pandan plant are bundled and cooked with rice and other flavourings to produce a variety of dishes such as *nasi lemak* and *nasi biryani*.[^11] Pandan is also used to impart green food colouring and aromatic properties to traditional cakes like *kuehs* (e.g., *kueh salat*, *kueh bakar* and *kueh dadam*)[^12] and modern renditions of desserts such as pandan cake and pandan waffles.[^13] The leaves can also be used as a wrap such as in the savoury dish Thai pandan leaf chicken (*gai hor bai toey*) or the *kueh tepung pelita*.[^14]
+<param ve-image 
+       label="Kaya spread"
+       attribution="Steffen Wurzel"
+       license="Public domain, via Wikimedia Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/f/fd/KayaSpread.JPG">
+<param ve-image 
+       label="Kaya and butter toast, often eaten together with soft-boiled eggs and tea or coffee for breakfast"
+       attribution="Goodiesfirst"
+       license="Public domain, via Wikimedia Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/85/Ya_Kun_Koya_toast%2C_eggs_and_coffee.jpg">
+<param ve-image 
+       label="Nasi lemak"
+       attribution="Faixal"
+       license="Public domain"
+       url="https://cdn.pixabay.com/photo/2015/03/04/12/09/food-658715_1280.jpg">
+<to insert photos of kuehs>
 
-Pandan has been described to have a “rose-like, milky, nutty and vanilla-like flavor” ,[^15] and is a cheaper aromatic alternative to vanilla. This was how pandan cake, named in 2017 as Singapore’s national cake,[^16] was created: by swapping out vanilla and lemon in a European chiffon cake recipe with local ingredients pandan and coconut milk.[^17] After an early recipe for the cake appeared in 1979 in the local newspaper The Straits Times and it was popularised by the Peranakan bakery Bengawan Solo , the demand for this cake has not waned over the years—many heartland bakeries now feature pandan cakes on their shelves. In fact, pandan cake is listed as one of the two most popular products at Changi Airport, as a result of many travellers bringing it overseas as souvenirs or gifts.[^18] All this says a lot about how the pandan, despite its non-native roots, has become an integral part of local food culture which forms a big part of Singapore’s identity. 
+Pandan has been described to have a “rose-like, milky, nutty and vanilla-like flavor” ,[^15] and is a cheaper aromatic alternative to vanilla. This was how pandan cake, named in 2017 as Singapore’s national cake,[^16] was created: by swapping out vanilla and lemon in a European chiffon cake recipe with local ingredients pandan and coconut milk.[^17] After an early recipe for the cake appeared in 1979 in the local newspaper The Straits Times and it was popularised by the Peranakan bakery Bengawan Solo , the demand for this cake has not waned over the years—many heartland bakeries now feature pandan cakes on their shelves. In fact, pandan cake is listed as one of the two most popular products at Changi Airport, as a result of many travellers bringing it overseas as souvenirs or gifts.[^18] All this says a lot about how the pandan, despite its non-native roots, has become an integral part of local food culture which forms a big part of Singapore’s identity.
+<param ve-image 
+       label="Pandan cake"
+       attribution="Domust Jellifrea"
+       license="Public domain, via Wikimedia Commons"
+url="https://upload.wikimedia.org/wikipedia/commons/8/87/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E4%B8%8A%E5%85%83%E8%A1%97_Sheung_Yuen_Street_%E5%A4%A7%E7%A3%A1%E9%81%93_Tai_Hom_Road_Toast_Box_Bakery_green_Pandan_Cake_%E8%8D%B7%E9%87%8C%E6%B4%BB%E5%BB%A3%E5%A0%B4_Plaza_Hollywood_December_2020_SS2_02.jpg">
+       <param ve-image 
+       label="Pandan cake is a common item sold in local bakeries"
+       attribution="ProjectManhattan"
+       license="Public domain, via Wikimedia Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Pandan_cake.jpg">
 
 ## Pandan – Chemicals and Culture
 Described as “a lazy gardener’s plant”, the pandan is an easy-to-grow, fuss-free plant that can adapt well to a range of soil types and light conditions.[^19] It is widely planted in home gardens and as part of the streetscape. The leaves of the plants can even be found in cars placed by taxi drivers and car owners in a bid to repel cockroaches and other pests. This practice is also carried out in homes with the leaves placed in drawers and kitchen cabinets, as a non-toxic alternative to using insecticides.[^20] These anecdotes inspired Chinese High School students to develop fly repellent from boiling pandan, winning first place in the local 1993 biotech fair competition.[^21] Chemical compounds such as 2-acetyl-1-pyrroline were subsequently isolated and tested as an effective repellent against cockroaches.[^22]
 
 Apart from its use as repellent, pandan is also an integral part of major celebrations and events in the Malay culture. A main component of *bunga rampai* (flower potpourri), fresh pandan leaves are shredded and added to a mixture of petals from fragrant flowers such as roses and *chempakas*, and scented wood including *chendana* (sandalwood) and *kayu gharu* (incense wood).[^23] This fragrant mixture is then packed into net bags and given to attendees or placed around the house during important Malay ceremonies and customs such as weddings, engagements, circumcision, shaving of a newborn’s hair (*cukur rambut*) and even funerals to impart fragrance and freshness at the event.[^24]
+<param ve-video
+       id="J8ESF5tECic"
+       title="Making bunga rampai">
 
 In recent times, *bunga rampai* is usually simplified and made with pandan leaves, flower petals, and a few drops of essential oils.[^25] A prominent local Malay writer Isa Kamari wrote the poem “bunga rampai”, identifying the use of potpourri as a common thread throughout various stages of life in Malay culture.[^26] The potpourri and the incorporation of it in significant life events exemplifies the harmony of art, tradition, culture and religion, but this practice is waning in modern times.
-
+       
 During Malay weddings, elder relatives will carry out a custom to bless the bride and groom (*adat renjis merenjis*) by sprinkling *bunga rampai* and *air mawar* (rose-scented water) into the couple’s upturned hands.[^27] A traditional gift of *sireh*, made with betel leaves wrapped with shredded pandan leaves, flowers and rose water, is often exchanged between the bride and groom’s families during Malay engagement and marriage ceremonies.[^28]
+
 
 ## Non-Native Origin, Deeply Rooted Roles
 Despite its beginnings as a non-native species, there is no doubt that the pandan has become an important plant of cultural significance and ecological importance in Singapore. It is a significant habitat for the ant mosquito, *Malaya genurostris*, and its presence may be ecologically important in maintaining intricate relationship between *Crematogaster* ants and the non-blood feeding mosquito. The dependence of cultural practices and food recipes on pandan is a testament to how widely available the plant has become since its introduction into its non-native range. The use of pandan locally can be seen as an interesting parallel to Singapore’s multi-cultural origins, where the settlers from diverse backgrounds were once non-natives but have since developed their own identities, giving rise to new traditions and cuisines.
+
        
 ## References
 [^1]: Ralph E. Harbach, “Mosquito Taxonomic Inventory,” Mosquito Taxonomic Inventory, 2022, https://mosquito-taxonomic-inventory.myspecies.info/.
