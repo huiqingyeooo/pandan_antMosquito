@@ -60,6 +60,7 @@ It is the only fragrant species of screwpines, and the widespread extent of its 
        url="https://raw.githubusercontent.com/huiqingyeooo/pandan_antMosquito/main/media/leaf_axil2.jpg"
        fit="contain">
 
+
 The larvae of *Malaya genurostris* have been frequently observed in the leaf axils of the pandan. The tight interwoven leaves of this plant shield the larvae from potential predators and provide an ideal habitat to collect rainwater essential for the continued development of the larvae to adulthood (which usually takes a few weeks).
 <param ve-image 
        label="Larva of ant mosquito (Malaya genurostris)"
