@@ -28,7 +28,6 @@ Mosquitoes belonging to the genus *Malaya*, commonly known as ant mosquitoes, ha
        license="Public domain"
        seq="72"
        fit="contain">
-       
 > “The *Harpagomyia* [old genus name of *Malaya*] places itself directly in front of an advancing ant, sometimes even nipping the ant between its front legs, and not releasing it until it stops and opens its jaws, when the mosquito thrusts the swollen tip of its proboscis into the ant’s mouth and rapidly absorbs the food offered. While the interchange is taking place the ant strokes the tip of the mosquito’s proboscis with its palpi. When not in use, the proboscis of the mosquito is folded backwards under the body - a most unusual position in this family. Whilst feeding, the wings are vibrated and the hind legs held high so that the tarsi curve forwards over the head, as in *Wyeomyia* and related genera”.[^5]
 
 12 species are described in this genus, and one such species, *Malaya genurostris* is found in Singapore. At present, there are 23 species of *Crematogaster* ants recorded in Singapore,[^6] but it is uncertain if *Malaya genurostris* is associated with one or multiple species of *Crematogaster* ants.
