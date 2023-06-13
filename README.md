@@ -37,7 +37,14 @@ Mosquitoes belonging to the genus *Malaya*, commonly known as ant mosquitoes, ha
        title="Malaya genurostris larvae viewed under a microscope">
 
 ## Pandan – A Habitat for Ant Mosquitoes
-Pandan is considered a cultigen, a plant species known only in cultivation with no known wild ancestor.[^7] The origin of its domestication process, thought to have started since ancient times, is a mystery. The plant reproduces vegetatively, as it does not produce female flower clusters (inflorescences). Male inflorescences are rare and have only been observed once in the Moluccas.[^8] It is the only fragrant species of screwpines, and the widespread extent of its spread in modern Singapore can be attributed to its aromatic properties and propensity to survive in a wide variety of environments. First recorded in Singapore in 1918,[^9] the route of its introduction is unclear but is likely a result of cultivating the plant to be used as a cooking ingredient.[^10] Despite its domesticated and non-native status, the pandan plays an important role in the local ecosystem. A well-loved plant of cultural significance, pandan is widely planted in various parks and nature spots in Singapore, placing it in close proximity to local fauna
+Pandan is considered a cultigen, a plant species known only in cultivation with no known wild ancestor.[^7] The origin of its domestication process, thought to have started since ancient times, is a mystery. The plant reproduces vegetatively, as it does not produce female flower clusters (inflorescences). Male inflorescences are rare and have only been observed in the <span data-mouseover-map-flyto="-2.322, 129.3948, 8">Moluccas</span>, suggestive of its origins.[^8]
+<param ve-map basemap="OpenStreetMap" title="">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Pandan_Leaves.jpg"
+	coords="-2.322, 129.3948"
+	size="129, 170"
+	circle="true"> 
+
+It is the only fragrant species of screwpines, and the widespread extent of its spread in modern Singapore can be attributed to its aromatic properties and propensity to survive in a wide variety of environments. First recorded in Singapore in 1918,[^9] the route of its introduction is unclear but is likely a result of cultivating the plant to be used as a cooking ingredient.[^10] Despite its domesticated and non-native status, the pandan plays an important role in the local ecosystem. A well-loved plant of cultural significance, pandan is widely planted in various parks and nature spots in Singapore, placing it in close proximity to local fauna.
 <param ve-image 
        label="Pandan amaryllifolius at the Singapore Botanic Gardens"
        attribution="Yeo Huiqing"
@@ -79,15 +86,9 @@ The larvae of *Malaya genurostris* have been frequently observed in the leaf axi
 ## Pandan – A Taste of Home
 “Sometimes called the ‘Vanilla of the East’, the wonderful aroma of pandan reminds us of home cooking in Southeast Asia” – so goes the tagline for Singapore-based Sunshine Bakeries’ Homestyle Pandan Bread.[^11] Indeed the smell and sight of pandan evokes strong feelings of familiarity and nostalgia, as many locals grow up eating a wide variety of dishes flavoured with pandan. A highly versatile ingredient in local cuisines, pandan can be incorporated into savoury dishes and sweet treats. *Kaya*, a popular breakfast spread often eaten with butter on toast, is made by cooking pandan extracts and coconut into a jam.[^12] The leaves of the pandan plant are bundled and cooked with rice and other flavourings to produce a variety of dishes such as *nasi lemak* and *nasi biryani*.[^13] Pandan is also used to impart green food colouring and aromatic properties to traditional cakes like *kuehs* (e.g., *kueh salat*, *kueh bakar* and *kueh dadam*)[^14] and modern renditions of desserts such as pandan cake and pandan waffles.[^15] The leaves can also be used as a wrap such as in the savoury dish Thai pandan leaf chicken (*gai hor bai toey*) or the *kueh tepung pelita*.[^16]
 <param ve-image 
-       label="Kaya spread"
-       attribution="Steffen Wurzel"
-       license="Public domain, via Wikimedia Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/f/fd/KayaSpread.JPG">
-<param ve-image 
-       label="Kaya and butter toast, often eaten together with soft-boiled eggs and tea or coffee for breakfast"
-       attribution="Goodiesfirst"
-       license="Public domain, via Wikimedia Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/85/Ya_Kun_Koya_toast%2C_eggs_and_coffee.jpg">
+       label="Cendol (Chendol), a local dessert with green rice flour jelly made using pandan extract"
+       attribution=Tan Ming Kai"
+       url="https://raw.githubusercontent.com/huiqingyeooo/pandan_antMosquito/main/media/chendol.jpg">
 <param ve-image 
        label="Nasi lemak"
        attribution="Faixal"
@@ -96,12 +97,12 @@ The larvae of *Malaya genurostris* have been frequently observed in the leaf axi
 
 Pandan has been described to have a “rose-like, milky, nutty and vanilla-like flavor” ,[^17] and is a cheaper aromatic alternative to vanilla. This was how pandan cake, named in 2017 as Singapore’s national cake,[^18] was created: by swapping out vanilla and lemon in a European chiffon cake recipe with local ingredients pandan and coconut milk.[^19] After an early recipe for the cake appeared in 1979 in the local newspaper The Straits Times and it was popularised by the Peranakan bakery Bengawan Solo , the demand for this cake has not waned over the years—many heartland bakeries now feature pandan cakes on their shelves. In fact, pandan cake is listed as one of the two most popular products at Changi Airport, as a result of many travellers bringing it overseas as souvenirs or gifts.[^20] All this says a lot about how the pandan, despite its non-native roots, has become an integral part of local food culture which forms a big part of Singapore’s identity.
 <param ve-image 
-       label="Pandan cake"
-       attribution="Domust Jellifrea"
-       license="Public domain, via Wikimedia Commons"
-url="https://upload.wikimedia.org/wikipedia/commons/8/87/HK_%E9%91%BD%E7%9F%B3%E5%B1%B1_Diamond_Hill_%E4%B8%8A%E5%85%83%E8%A1%97_Sheung_Yuen_Street_%E5%A4%A7%E7%A3%A1%E9%81%93_Tai_Hom_Road_Toast_Box_Bakery_green_Pandan_Cake_%E8%8D%B7%E9%87%8C%E6%B4%BB%E5%BB%A3%E5%A0%B4_Plaza_Hollywood_December_2020_SS2_02.jpg">
+       label="A slice of pandan cake"
+       attribution="Tan Ming Kai"
+       url="https://raw.githubusercontent.com/huiqingyeooo/pandan_antMosquito/main/media/pandan_cake.jpg"
+       fit="contain">
 <param ve-image 
-       label="Pandan cake is a common item sold in local bakeries"
+       label="Pandan cakes at a local bakery"
        attribution="ProjectManhattan"
        license="Public domain, via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Pandan_cake.jpg">
