@@ -37,7 +37,7 @@ Mosquitoes belonging to the genus *Malaya*, commonly known as ant mosquitoes, ha
 
 ## Pandan – A Habitat for Ant Mosquitoes
 Pandan is considered a cultigen, a plant species known only in cultivation with no known wild ancestor.[^7] The origin of its domestication process, thought to have started since ancient times, is a mystery. The plant reproduces vegetatively, as it does not produce female flower clusters (inflorescences). Male inflorescences are rare and have only been observed in the <span eid="Q3827">Moluccas</span>, suggestive of its origins.[^8]
-<param ve-map basemap="OpenStreetMap" title="Possible origin of Pandanus amaryllifolius">
+<param ve-map center="-2.322, 129.3948" zoom="2.5" basemap="OpenStreetMap" title="Possible origin of Pandanus amaryllifolius">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Pandan_Leaves.jpg"
 	coords="-2.322, 129.3948"
 	size="129, 170"
