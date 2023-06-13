@@ -13,6 +13,7 @@
 
 The human forces behind the changing landscapes of Singapore have also introduced a wide variety of non-native plants. Some of these plants have gone on not only to become mainstays in Singapore’s culture, but also to establish themselves as vital players ecologically. With development and rapid urbanization, the increase in availability of artificial habitats has facilitated the spread of mosquitoes, leading to multiple mosquito-borne disease outbreaks globally. However, not all species of mosquitoes are disease vectors and some are even vital to the delicate balance of the complex ecological web. In this essay, I explore how the introduction of a non-native plant, the <span eid="Q311090">pandan (*Pandanus amaryllifolius*)</span>, came to be not just culturally a symbol of home and familiarity to Singaporeans, but also an important habitat for ant mosquitoes.
 
+
 ## Ant Mosquitoes
 Not all mosquitoes are disease vectors. Of the ~3,600 described species,[^1] only an estimated 10% of them are vectors of human diseases.[^2] The rest of the species have varied life histories and do not always go for the blood of humans and other mammals. Some examples of unusual mosquito traits include carnivorous larvae of *Toxorhynchites* feeding on other fly larvae, and various mosquito species feeding on the ‘blood’ of <span eid="Q25582391">poikilothermic</span> (“cold-blooded”) animal hosts such as frogs, fishes, and even leeches.[^3]
 <param ve-video
