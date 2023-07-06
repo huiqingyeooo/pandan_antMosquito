@@ -86,6 +86,10 @@ The larvae of *Malaya genurostris* have been frequently observed in the leaf axi
 ## Pandan – A Taste of Home
 “Sometimes called the ‘Vanilla of the East’, the wonderful aroma of pandan reminds us of home cooking in Southeast Asia” – so goes the tagline for Singapore-based Sunshine Bakeries’ Homestyle Pandan Bread.[^11] Indeed the smell and sight of pandan evokes strong feelings of familiarity and nostalgia, as many locals grow up eating a wide variety of dishes flavoured with pandan. A highly versatile ingredient in local cuisines, pandan can be incorporated into savoury dishes and sweet treats. <span eid="Q94835">*Kaya*</span>, a popular breakfast spread often eaten with butter on toast, is made by cooking pandan extracts and coconut into a jam.[^12] The leaves of the pandan plant are bundled and cooked with rice and other flavourings to produce a variety of dishes such as *nasi lemak* and *nasi biryani*.[^13] Pandan is also used to impart green food colouring and aromatic properties to traditional cakes like *kuehs* (e.g., *kueh salat*, *kueh bakar* and *kueh dadam*)[^14] and modern renditions of desserts such as pandan cake and pandan waffles.[^15] The leaves can also be used as a wrap such as in the savoury dish Thai pandan leaf chicken (*gai hor bai toey*) or the *kueh tepung pelita*.[^16]
 <param ve-image 
+       label="Woman sells Hari Raya kueh at National Museum, Stamford Road"
+       attribution=Ministry of Information and the Arts"
+       url="https://raw.githubusercontent.com/huiqingyeooo/pandan_antMosquito/main/media/hari_raya_kueh.jpg">
+<param ve-image 
        label="Cendol (Chendol), a local dessert with green rice flour jelly made using pandan extract"
        attribution=Tan Ming Kai"
        url="https://raw.githubusercontent.com/huiqingyeooo/pandan_antMosquito/main/media/chendol.jpg">
@@ -116,6 +120,11 @@ Apart from its use as repellent, pandan is also an integral part of major celebr
        title="Making bunga rampai">
 
 During Malay weddings, elder relatives will carry out a custom to bless the bride and groom (*adat renjis merenjis*) by sprinkling *bunga rampai* and *air mawar* (rose-scented water) into the couple’s upturned hands.[^27] A traditional gift of *sireh*, made with [betel leaves](https://www.juncture-digital.org/joycewho1/betelnutessay) wrapped with shredded pandan leaves, flowers and rose water, is often exchanged between the bride and groom’s families during Malay engagement and marriage ceremonies.[^28]
+<param ve-image 
+       label="A traditional gift of sireh"
+       attribution="National Library Board"
+       url="https://raw.githubusercontent.com/huiqingyeooo/pandan_antMosquito/main/media/sireh_set.jpg"
+       fit="contain">
 
 In recent times, *bunga rampai* is usually simplified and made with pandan leaves, flower petals, and a few drops of essential oils.[^29] A prominent local Malay writer [Isa Kamari wrote the poem “bunga rampai”](https://youtu.be/efvLCFcEd9A?t=2887) in his literary collection ['Forgotten Wisdom of *Firasat*'](https://mhf.org.sg/wp-content/uploads/2022/10/CLS_09_Forgotten-Wisdom-of-Firasat-FA.pdf), identifying pandan leaves as a main ingredient in the making of the potpourri.[^30] The incorporation of fresh flower potpourri throughout various significant life events in the Malay culture exemplifies the harmony of art, tradition, culture and religion, but this practice is waning in modern times.
 <param ve-image 
